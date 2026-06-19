@@ -49,17 +49,6 @@
 
 ---
 
-## 🚀 What I Build
-
-🤖 AI & Machine Learning Applications
-
-👁️ Computer Vision Solutions using OpenCV & MediaPipe
-
-🌐 Modern Full-Stack Web Applications
-
-📊 Data Analytics & Predictive Systems
-
-⚡ Fast APIs and Scalable Backend Services
 
 ---
 
@@ -76,11 +65,6 @@
 </div>
 
 ---
-
-## 🌐 Connect With Me
-
-
-
 
 ## 🌐 Connect With Me
 

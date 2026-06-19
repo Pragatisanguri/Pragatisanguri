@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=Pragatisanguri&color=blue&style=for-the-badge)
 ## 🌍 About Me
 
 I'm a Computer Science student exploring the intersection of Software Development, Artificial Intelligence, and Computer Vision. Passionate about building innovative solutions and constantly learning new technologies.
@@ -27,7 +27,7 @@ I'm a Computer Science student exploring the intersection of Software Developmen
 
 ---
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pragatisanguri&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 ## 🛠️ Tech Stack

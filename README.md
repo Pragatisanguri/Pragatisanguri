@@ -74,21 +74,21 @@
 
 ## 🌐 Connect With Me
 
+
+
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pragati-sanguri-836322322/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT%20WITH%20ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:pragatiisanguri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pragatisanguri">
-<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/u/pragati-sanguri/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-COMPETITIVE%20CODING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
+
+
 
 ---
 

@@ -14,23 +14,14 @@
 
 ## 🌍 About Me
 
-🎓 B.Tech Computer Science & Engineering Student at **Graphic Era Hill University (2024–2028)**
+I'm a Computer Science student exploring the intersection of Software Development, Artificial Intelligence, and Computer Vision. Passionate about building innovative solutions and constantly learning new technologies.
 
-💡 Passionate about building intelligent systems, scalable software, and real-world applications powered by AI.
-
-🔭 Currently exploring:
-
-* Artificial Intelligence & Machine Learning
-* Full-Stack Development
-* Computer Vision
-* Scalable Software Systems
-
-⚡ What excites me:
-
-* Solving challenging problems through code
-* Building impactful products
-* Learning emerging technologies
-* Creating AI-powered solutions
+-   B.Tech CSE (2024-2028)
+  Graphic Era Hill University 
+-   AI/ML & Computer Vision Enthusiast
+-   Currently a learning Developer
+-   Problem Solver & Tech Explorer
+-   Building projects that solve real-world problems
 
 📫 Reach me at: **[pragatiisanguri@gmail.com](mailto:pragatiisanguri@gmail.com)**
 
@@ -39,7 +30,7 @@
 
  
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -50,19 +41,6 @@
 ---
 
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pragatisanguri&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragatisanguri&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragatisanguri&theme=tokyonight"/>
-
-</div>
 
 ---
 

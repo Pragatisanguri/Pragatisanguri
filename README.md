@@ -1,15 +1,16 @@
 ## About Me
 
-<sup>
-🎓 B.Tech Computer Science & Engineering student at Graphic Era Hill University (2024–2028).
+<sub>
+🎓 B.Tech Computer Science & Engineering student at Graphic Era Hill University (2024–2028) with a strong interest in Software Development, Artificial Intelligence, Machine Learning, and Computer Vision.
 
-💻 Passionate about Software Development, AI/ML, Computer Vision, and Full-Stack Development.
+💻 I enjoy building real-world applications that solve meaningful problems. My projects range from AI-powered systems and computer vision applications to full-stack web platforms.
 
-🚀 Building real-world applications using Python, React, OpenCV, MediaPipe, Streamlit, and Scikit-Learn.
+🚀 Skilled in Python, C++, JavaScript, React.js, Tailwind CSS, OpenCV, MediaPipe, Streamlit, and Scikit-Learn.
 
-📫 pragatiisanguri@gmail.com
-</sup>
+🌱 Currently exploring Full-Stack Development, AI/ML, and scalable software systems.
 
+📫 Reach me at: pragatiisanguri@gmail.com
+</sub>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pragati-sanguri-836322322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragatiisanguri@gmail.com) 

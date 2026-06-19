@@ -1,5 +1,14 @@
+## About Me
 
-# Hi there 👋, I'm Pragati Sanguri<br><br>🎓 B.Tech Computer Science & Engineering student at Graphic Era Hill University (2024–2028) with a strong interest in Software Development, Artificial Intelligence, Machine Learning, and Computer Vision.<br><br>💻 I enjoy building real-world applications that solve meaningful problems. My projects range from AI-powered systems and computer vision applications to full-stack web platforms. I have experience working with Python, C++, JavaScript, React.js, Tailwind CSS, OpenCV, MediaPipe, Streamlit, and Scikit-Learn.<br><br><br><br>* Languages: Python, C, C++, JavaScript, SQL, HTML5, CSS3<br>* Frontend: React.js, Tailwind CSS<br>* AI/ML: OpenCV, MediaPipe, NumPy, Pandas, Scikit-Learn<br>* Tools: Git, GitHub, VS Code, AWS, GCP, Streamlit<br>* Core CS: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks<br><br>🌱 Currently exploring Full-Stack Development, AI/ML, and scalable software systems.<br><br>📫 Reach me at: [pragatiisanguri@gmail.com](mailto:pragatiisanguri@gmail.com)<br>
+<sup>
+🎓 B.Tech Computer Science & Engineering student at Graphic Era Hill University (2024–2028).
+
+💻 Passionate about Software Development, AI/ML, Computer Vision, and Full-Stack Development.
+
+🚀 Building real-world applications using Python, React, OpenCV, MediaPipe, Streamlit, and Scikit-Learn.
+
+📫 pragatiisanguri@gmail.com
+</sup>
 
 
 ## 🌐 Socials:

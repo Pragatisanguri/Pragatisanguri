@@ -76,17 +76,20 @@
 
 
 
-<div align="center">
 
+## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/pragati-sanguri-836322322/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT%20WITH%20ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Pragati%20Sanguri-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/pragati-sanguri/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-COMPETITIVE%20CODING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
 </a>
+</p>
 
-</div>
+
 
 
 

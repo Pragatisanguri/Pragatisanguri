@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center"
   <img src="https://raw.githubusercontent.com/Pragatisanguri/Pragatisanguri/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 # 👋 Hey there, I'm Pragati Sanguri!
